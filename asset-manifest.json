@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactfilm/static/css/main.ee73a393.chunk.css",
+    "main.js": "/reactfilm/static/js/main.85f7e024.chunk.js",
+    "main.js.map": "/reactfilm/static/js/main.85f7e024.chunk.js.map",
+    "runtime-main.js": "/reactfilm/static/js/runtime-main.7e6b7a24.js",
+    "runtime-main.js.map": "/reactfilm/static/js/runtime-main.7e6b7a24.js.map",
+    "static/css/2.abed5bb4.chunk.css": "/reactfilm/static/css/2.abed5bb4.chunk.css",
+    "static/js/2.08699b17.chunk.js": "/reactfilm/static/js/2.08699b17.chunk.js",
+    "static/js/2.08699b17.chunk.js.map": "/reactfilm/static/js/2.08699b17.chunk.js.map",
+    "index.html": "/reactfilm/index.html",
+    "precache-manifest.d68fccd4786997e945faa5f64b8e1a4b.js": "/reactfilm/precache-manifest.d68fccd4786997e945faa5f64b8e1a4b.js",
+    "service-worker.js": "/reactfilm/service-worker.js",
+    "static/css/2.abed5bb4.chunk.css.map": "/reactfilm/static/css/2.abed5bb4.chunk.css.map",
+    "static/css/main.ee73a393.chunk.css.map": "/reactfilm/static/css/main.ee73a393.chunk.css.map",
+    "static/js/2.08699b17.chunk.js.LICENSE.txt": "/reactfilm/static/js/2.08699b17.chunk.js.LICENSE.txt",
+    "static/media/react-bootstrap-carousel.css": "/reactfilm/static/media/react-bootstrap-carousel.f86d9bf3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e6b7a24.js",
+    "static/css/2.abed5bb4.chunk.css",
+    "static/js/2.08699b17.chunk.js",
+    "static/css/main.ee73a393.chunk.css",
+    "static/js/main.85f7e024.chunk.js"
+  ]
+}
